@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>任务管理 - openGauss 示例</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <style>
+      body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; margin: 2rem; }
+      h1 { margin-bottom: 1rem; }
+      form { display: flex; gap: .5rem; margin-bottom: 1rem; }
+      input, select, button { padding: .5rem; }
+      ul { list-style: none; padding: 0; }
+      li { border: 1px solid #ddd; padding: .5rem; margin-bottom: .5rem; display: flex; justify-content: space-between; align-items: center; }
+      .meta { color: #555; font-size: .9rem; }
+    </style>
+  </head>
+  <body>
+    <h1>图书馆 - openGauss 示例</h1>
+    <section>
+      <h2>书籍列表</h2>
+      <div style="margin-bottom:.5rem;">
+        <input id="q" placeholder="搜索标题或作者" />
+        <input id="cat" placeholder="分类（如：文学、小说）" />
+        <button id="search">搜索</button>
+      </div>
+      <ul id="books"></ul>
+    </section>
+    <section>
+      <h2>借阅记录</h2>
+      <ul id="loans"></ul>
+    </section>
+
+    <script src="/app.js"></script>
+  </body>
+  </html>

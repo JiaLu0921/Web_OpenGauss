@@ -1,0 +1,23 @@
+[
+  {"title":"活着","author":"余华","category":"文学","isbn":"9787506365437","year":1998},
+  {"title":"三体","author":"刘慈欣","category":"科幻","isbn":"9787208134851","year":2008},
+  {"title":"1984","author":"乔治·奥威尔","category":"社会","isbn":"9787301283109","year":1949},
+  {"title":"百年孤独","author":"加西亚·马尔克斯","category":"文学","isbn":"9787539628991","year":1967},
+  {"title":"小王子","author":"圣·埃克苏佩里","category":"童话","isbn":"9787544291171","year":1943},
+  {"title":"围城","author":"钱钟书","category":"文学","isbn":"9787530206952","year":1947},
+  {"title":"解忧杂货店","author":"东野圭吾","category":"小说","isbn":"9787544270879","year":2011},
+  {"title":"人类简史","author":"尤瓦尔·赫拉利","category":"历史","isbn":"9787508651392","year":2011},
+  {"title":"我们仨","author":"杨绛","category":"文学","isbn":"9787020049295","year":2003},
+  {"title":"沉默的大多数","author":"王小波","category":"文学","isbn":"9787530206990","year":1997},
+  {"title":"雪国","author":"川端康成","category":"小说","isbn":"9787020036356","year":1947},
+  {"title":"海边的卡夫卡","author":"村上春树","category":"小说","isbn":"9787544270855","year":2002},
+  {"title":"解体概要","author":"刘慈欣","category":"科幻","year":2003},
+  {"title":"俗女养成记","author":"江嘉文","category":"文学","year":2015},
+  {"title":"白夜行","author":"东野圭吾","category":"小说","isbn":"9787544258601","year":1999},
+  {"title":"倾城之恋","author":"张爱玲","category":"文学","isbn":"9787530217149","year":1943},
+  {"title":"悲惨世界","author":"维克多·雨果","category":"文学","isbn":"9787020002207","year":1862},
+  {"title":"哈利·波特与魔法石","author":"J·K·罗琳","category":"奇幻","isbn":"9787020142866","year":1997},
+  {"title":"解忧咖啡店","author":"金华","category":"小说","year":2016},
+  {"title":"看见","author":"柴静","category":"社会","isbn":"9787508647357","year":2013}
+]
+
