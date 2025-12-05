@@ -1,9 +1,9 @@
 本项目实现：
 
-- 后端使用 Node.js + Express，连接国产数据库 openGauss（兼容 PostgreSQL 协议，也可适配 KingbaseES）。
+- 后端使用 Node.js + Express，连接国产数据库 openGauss。
 - 提供任务管理 CRUD API 与简易前端页面。
 - 重点展示数据库设计、部署、访问：包含模式定义、初始化与连接配置。
-- 使用 Docker 与 docker-compose 一键封装部署（同时启动 openGauss 与 Web 服务）。
+- 使用 Docker 与 docker-compose 一键封装部署。
 
 ---
 
